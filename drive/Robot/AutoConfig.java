@@ -2,8 +2,7 @@ package org.firstinspires.ftc.teamcode.drive.Robot;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 
-import org.firstinspires.ftc.teamcode.ServosandSensors.sensorConfig;
-import org.firstinspires.ftc.teamcode.ServosandSensors.servoConfig;
+import org.firstinspires.ftc.teamcode.ServosandSensors.Servos.servoConfig;
 import org.firstinspires.ftc.teamcode.Superclass.Subsystem;
 
 public class AutoConfig {
